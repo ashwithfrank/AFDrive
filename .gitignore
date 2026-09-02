@@ -1,0 +1,26 @@
+# Secrets and local config
+.env
+instance/
+
+# Database
+database.db
+*.db-journal
+
+# User's actual files — never commit personal data
+storage/user_files/*
+!storage/user_files/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
