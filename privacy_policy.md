@@ -1,6 +1,6 @@
 # AFDrive Privacy Policy
 
-*Last updated: [fill in date before publishing]*
+*Last updated: 14 September 2026
 
 AFDrive is developed by Ashwith Frank / AlphaOmega Studio ("we", "us").
 This policy explains what happens to your data when you use AFDrive.
@@ -67,6 +67,6 @@ the "Last updated" date above will reflect that.
 ## Contact
 
 Questions about this policy or AFDrive can be sent to:
-**[your contact email — same one used in the Play Console listing]**
+ashwithfrank.dev@gmail.com
 
 Project source: https://github.com/ashwithfrank/AFDrive
