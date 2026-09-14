@@ -1,6 +1,6 @@
 # AFDrive Privacy Policy
 
-*Last updated: 14 September 2026
+Last updated: 14 September 2026
 
 AFDrive is developed by Ashwith Frank / AlphaOmega Studio ("we", "us").
 This policy explains what happens to your data when you use AFDrive.
